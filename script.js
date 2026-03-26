@@ -5,9 +5,9 @@ const error = document.getElementById("error");
 
 // Data (songs)
 const musicData = {
-    happy: ["Happy - Pharrell", "Good Life - OneRepublic"],
+    happy: ["Happy - illahi", "Dil dhadakne do "],
     sad: ["Let Her Go - Passenger", "Fix You - Coldplay"],
-    energetic: ["Believer - Imagine Dragons", "Stronger - Kanye West"]
+    energetic: ["Believer - Imagine Dragons", "hanuman chalisa"]
 };
 
 // Form submit
